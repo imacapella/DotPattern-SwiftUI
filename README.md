@@ -8,8 +8,8 @@ Here’s an example of how to use `DotPattern` in your SwiftUI views:
 Below are some sample implementations of `DotPattern` with different configurations:
 
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/40afe169-d0f1-4c4c-899e-a87c6e8927c5" width="650"/>
-  <img src="https://github.com/user-attachments/assets/724986a9-9c0d-4bae-985c-f5b2dbc4dc40" width="350" style="margin-left: 20px;"/>
+  <img src="https://github.com/user-attachments/assets/40afe169-d0f1-4c4c-899e-a87c6e8927c5" width="350"/>
+  <img src="https://github.com/user-attachments/assets/724986a9-9c0d-4bae-985c-f5b2dbc4dc40" width="200" style="margin-left: 20px;"/>
 </div>
 
 ```swift
@@ -67,7 +67,7 @@ You can add **DotPattern** to your project using **Swift Package Manager** or by
 
 ### 1. Using Swift Package Manager:
 1. In Xcode, go to **File > Add Packages**.
-2. Enter the repository URL: `[your GitHub repository URL]`.
+2. Enter the repository URL: `[https://github.com/imacapella/DotPattern]`.
 3. Select **Add Package**.
 
 ### 2. Directly Adding the Code:
