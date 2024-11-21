@@ -77,5 +77,14 @@ If you prefer to add **DotPattern** directly to your project, you can simply cop
 2. Paste it into your project folder in Xcode.
 
 
+## Contact
+
+For any questions or feedback, you can reach me at:
+
+- Email: gurkankaradas42@gmail.com
+- GitHub: [@imacapella](https://github.com/imacapella)
+- LinkedIn: [Gürkan Karadaş](linkedin.com/gurkankaradas)
+
+
 
 
