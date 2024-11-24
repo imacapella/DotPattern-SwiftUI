@@ -71,11 +71,12 @@ You can add **DotPattern** to your project using **Swift Package Manager** or by
 3. Select **Add Package**.
 
 ### 2. Directly Adding the Code:
-If you prefer to add **DotPattern** directly to your project, you can simply copy the code from the repository and include it in your project files.
+If you prefer to add **DotPattern** directly to your project, you can simply copy the code from the repository and include it in your project files. For better performance 
 
 1. Copy the **DotPattern.swift** file.
 2. Paste it into your project folder in Xcode.
 
+**To improve performance when rendering a large number of dots, consider caching the pattern. Without caching, rendering too many dots dynamically might lead to performance issues. By pre-rendering the dot pattern into an image or a reusable layer, you can significantly reduce the computational load and ensure smoother performance.**
 
 ## Contact
 
